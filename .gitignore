@@ -1,0 +1,17 @@
+# Exclude large datasets (tracked externally)
+winner_data.json
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env*
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
